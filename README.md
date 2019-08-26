@@ -1,2 +1,2 @@
 # hackerrank
-These are practice questions for technical interview question.
+These are practice questions for technical interview.
